@@ -36,7 +36,7 @@ python WGPGAN.py
 generate.py make use of the checkpoint folder, maker sure the name of the model is the same in checkpoint and generate.py</p>
 
 <p> Results : </p>
-<img src="https://raw.githubusercontent.com/Kwirtz/DCGAN-with-keras/master/generated_images/generatedSamples_epoch176.png" width="400" height="200" />
+<img src="https://raw.githubusercontent.com/Kwirtz/WGPGAN-with-keras/master/generated_images/generatedSamples_epoch150.png" width="400" height="200" />
 
 
 <h2>Ressources</h2>
