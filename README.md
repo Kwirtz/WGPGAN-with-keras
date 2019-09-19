@@ -26,7 +26,7 @@ python resize.py
 
 <h2>Training</h2>
 
-<p>Once all this is done you should have a resizedData folder and you can proceed to run dcgan.py</p>
+<p>Once all this is done you should have a resizedData folder and you can proceed to run WGPGAN.py</p>
 
 ```
 python WGPGAN.py
